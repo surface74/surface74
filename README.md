@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! 
 
-<!--
-**surface74/surface74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have some experience in the next area:
 
-Here are some ideas to get you started:
+![image](https://github.com/surface74/surface74/assets/52540855/36480bf3-8594-4fc4-955b-fdd13a4b34c1)
+![image](https://github.com/surface74/surface74/assets/52540855/976c40ef-7cf0-44b9-8592-99f8eb4f7baf)
+![image](https://github.com/surface74/surface74/assets/52540855/00f59587-473f-4f1f-8a53-4048658f829f)
+![image](https://github.com/surface74/surface74/assets/52540855/1dae1981-ce63-4eaf-a0f2-635de6fb87d2)
+![image](https://github.com/surface74/surface74/assets/52540855/c0971910-79db-4a75-8123-ca809b38cfc9)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
