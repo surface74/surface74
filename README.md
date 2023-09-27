@@ -13,5 +13,8 @@ I have some experience in the next area:
 ![image](https://github.com/surface74/surface74/assets/52540855/f2418aa4-b0ad-489b-b6ec-c8d322cdb453)
 ![image](https://github.com/surface74/surface74/assets/52540855/130036c4-ff30-471a-888c-a453dbf9c053)
 
+Thanks to the best community-based education program [RSSchool](https://rs.school/):
+
+<img src="https://github.com/surface74/surface74/assets/52540855/10fa7498-071e-4f3c-9cf6-e7cc348f967c)" width="200px"/>
 
 
