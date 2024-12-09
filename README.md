@@ -6,7 +6,8 @@ I have experience in the next area:
 ![Redux](https://github.com/surface74/surface74/assets/52540855/8b7a4f83-751e-4dbc-9a45-04029bb0b1da)
 ![NextJS](https://github.com/surface74/surface74/assets/52540855/d3981a20-81ba-46d0-8f4d-7e8b55eccaf0)
 ![NodeJS](https://github.com/surface74/surface74/assets/52540855/42348453-8254-4abd-969e-576b28b16d1e)
-![NestJS](https://github.com/user-attachments/assets/c2c20bad-2734-427e-8221-4b046a110431)
+![NestJS](https://github.com/user-attachments/assets/818e7904-995f-46dc-ad88-d5d02de7b094)
+
 
 
 ![JavaScript](https://github.com/surface74/surface74/assets/52540855/36480bf3-8594-4fc4-955b-fdd13a4b34c1)
