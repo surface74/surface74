@@ -22,6 +22,8 @@ I have experience in the next area:
 ![Jest](https://github.com/surface74/surface74/assets/52540855/130036c4-ff30-471a-888c-a453dbf9c053)
 
 ![Docker](https://github.com/user-attachments/assets/87344c6f-b15f-444d-9dd0-40208c57e88d)
+![TypeORM](https://github.com/user-attachments/assets/227a572c-716e-4094-a361-c3312d1887e7)
+
 
 Thanks to the best community-based education program [RSSchool](https://rs.school/):
 
